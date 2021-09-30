@@ -1,0 +1,19 @@
+version: '3'
+services:
+
+   nginx-front:
+     image: nginx:latest
+     container_name: nginx_front
+     privileged: true
+     user: root
+     volumes:
+        - ./configs/qimix.conf:/etc/nginx/sites-available/qimix.conf
+     ports:
+        - 80:80
+#     command: bash -c "ln -s /etc/nginx/sites-available/qimix.conf /etc/nginx/sites-enabled/"
+     networks:
+        - web-network
+
+networks:
+  web-network:
+     driver: bridge
