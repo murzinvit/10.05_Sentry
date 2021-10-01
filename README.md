@@ -26,5 +26,5 @@ Cкриншот тела сообщения из оповещения на по�
 Issue в Sentry после запуска приложения: </br>
 ![Sentry_devided_by_zero_notfy](https://github.com/murzinvit/screen/blob/a9de767de85262b5c777199462e5459812aac014/Sentry_devided_by_zero_notfy.png) </br>
 Оповещение на почте: </br>
-![Sentry_devided_by_zero_notfy](https://github.com/murzinvit/screen/blob/5bbff30a939d57cdf02a9a584fbc1d77d5a86a19/Sentry_devided_by_zero_notfy.png) </br>
+![Sentry_devided_by_zero_notfy](https://github.com/murzinvit/screen/blob/a9de767de85262b5c777199462e5459812aac014/Sentry_notify_alert_message.jpg) </br>
 
