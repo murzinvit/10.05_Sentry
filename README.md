@@ -11,6 +11,8 @@ Python скрипт для теста sentry: [test_app.py](https://github.com/m
 Исправление: `pip install sentry`, `apt-get install python3-pip`, `pip3 install --upgrade sentry`, `pip install --upgrade sentry` </br>
 Cкриншот Stack trace из тестового события: </br>
 ![Sentry_stack_trace](https://github.com/murzinvit/screen/blob/eb44556374aedda99f79af5103d282a45dbce100/Sentry_stack_trace.jpg) </br>
+Cкриншот после нажатия Resolved: </br>
+![Sentry_after_sample_error](https://github.com/murzinvit/screen/blob/f20eec07acd6a835ec78e682bd5a522b6393303d/Sentry_after_sample_error.jpg) </br>
 
 #### Задание 3: </br>
 Снова сгенерируйте событие Generate sample event. Выберите проект и создайте дефолтное правило алёртинга, без настройки полей </br>
