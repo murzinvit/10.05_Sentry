@@ -16,7 +16,7 @@ Cкриншот после нажатия Resolved: </br>
 
 #### Задание 3: </br>
 Снова сгенерируйте событие Generate sample event. Выберите проект и создайте дефолтное правило алёртинга, без настройки полей </br>
-[Sentry_devided_by_zero_notfy](https://github.com/murzinvit/screen/blob/5bbff30a939d57cdf02a9a584fbc1d77d5a86a19/Sentry_devided_by_zero_notfy.png) </br>
-[Sentry_notifycation](https://github.com/murzinvit/screen/blob/2f034ab92daa05eadc5439f1ee44b5998c97e3aa/Sentry_notifycation.jpg) </br>
+![Sentry_devided_by_zero_notfy](https://github.com/murzinvit/screen/blob/5bbff30a939d57cdf02a9a584fbc1d77d5a86a19/Sentry_devided_by_zero_notfy.png) </br>
+![Sentry_notifycation](https://github.com/murzinvit/screen/blob/2f034ab92daa05eadc5439f1ee44b5998c97e3aa/Sentry_notifycation.jpg) </br>
 #### Задание повышенной сложности: </br>
 
