@@ -16,7 +16,15 @@ Cкриншот после нажатия Resolved: </br>
 
 #### Задание 3: </br>
 Снова сгенерируйте событие Generate sample event. Выберите проект и создайте дефолтное правило алёртинга, без настройки полей </br>
-![Sentry_devided_by_zero_notfy](https://github.com/murzinvit/screen/blob/5bbff30a939d57cdf02a9a584fbc1d77d5a86a19/Sentry_devided_by_zero_notfy.png) </br>
-![Sentry_notifycation](https://github.com/murzinvit/screen/blob/97e2eeef835fcbb53ea7bf749aecd2e2d10ddc58/Sentry_notify_alert_message.jpg) </br>
+Example_issue: </br>
+[Sentry_example_issue](https://github.com/murzinvit/screen/blob/a9de767de85262b5c777199462e5459812aac014/Sentry_example_issue.jpg) </br>
+Cкриншот тела сообщения из оповещения на почте </br>
+![Sentry_notifycation](https://github.com/murzinvit/screen/blob/52d0de6a05d32e64b47c72de1fc73e6f369f19c4/Sentry_notify_of_example_issue.jpg) </br>
 #### Задание повышенной сложности: </br>
+Приложение на python: </br>
+Тестовое приложение на python: [test_app.py](https://github.com/murzinvit/10.05_Sentry/blob/678d884ab42f2c9332d96827ac2e7710e3822605/py_project/test_app.py) </br>
+Issue в Sentry после запуска приложения: </br>
+![Sentry_devided_by_zero_notfy](https://github.com/murzinvit/screen/blob/a9de767de85262b5c777199462e5459812aac014/Sentry_devided_by_zero_notfy.png) </br>
+Оповещение на почте: </br>
+![Sentry_devided_by_zero_notfy](https://github.com/murzinvit/screen/blob/5bbff30a939d57cdf02a9a584fbc1d77d5a86a19/Sentry_devided_by_zero_notfy.png) </br>
 
