@@ -8,7 +8,7 @@
 Python скрипт для теста sentry: [test_app.py](https://github.com/murzinvit/10.05_Sentry/blob/135f53e99bb1f29ff6e29b05f4a048aedf18cfae/py_project/test_app.py) </br>
 Для установки sentry-sdk на Debian 9 инструкции - pip install --upgrade sentry-sdk оказалось недостаточно. </br> 
 В python скрипте инструкция - `import sentry-sdk` выдавала - ModuleNotFound </br>
-Необходимо выполнить: `pip install sentry`, `apt-get install python3-pip`, `pip3 install --upgrade sentry` </br>
+Исправление: `pip install sentry`, `apt-get install python3-pip`, `pip3 install --upgrade sentry`, `pip install --upgrade sentry` </br>
 
 #### Задание 3: </br>
 Снова сгенерируйте событие Generate sample event. Выберите проект и создайте дефолтное правило алёртинга, без настройки полей </br>
